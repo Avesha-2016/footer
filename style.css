@@ -1,0 +1,20 @@
+.footer {
+    background: #000 none repeat scroll 0 0;
+    border-bottom: 2px solid #fff;
+    color: #fff;
+    font-size: 18px;
+    height: 100px;
+    padding-top: 10px;
+}
+
+.sys_bron a,
+.razr_site a {
+    color: #f6f6f6;
+    text-decoration: underline;
+}
+
+.footer_akcent,
+.sys_bron,
+.razr_site {
+    padding-bottom: 10px;
+}
